@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/web3-react-practice-skkrypto/static/js/main.d896d3c0.chunk.js",
+    "main.js.map": "/web3-react-practice-skkrypto/static/js/main.d896d3c0.chunk.js.map",
+    "runtime-main.js": "/web3-react-practice-skkrypto/static/js/runtime-main.c274eb74.js",
+    "runtime-main.js.map": "/web3-react-practice-skkrypto/static/js/runtime-main.c274eb74.js.map",
+    "static/js/2.b27e9bc7.chunk.js": "/web3-react-practice-skkrypto/static/js/2.b27e9bc7.chunk.js",
+    "static/js/2.b27e9bc7.chunk.js.map": "/web3-react-practice-skkrypto/static/js/2.b27e9bc7.chunk.js.map",
+    "index.html": "/web3-react-practice-skkrypto/index.html",
+    "static/js/2.b27e9bc7.chunk.js.LICENSE.txt": "/web3-react-practice-skkrypto/static/js/2.b27e9bc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c274eb74.js",
+    "static/js/2.b27e9bc7.chunk.js",
+    "static/js/main.d896d3c0.chunk.js"
+  ]
+}
